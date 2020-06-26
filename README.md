@@ -6,4 +6,4 @@ The notebook is implemented in Python 3.7. The list of Python package dependenci
 
     pip install -r requirements.txt
 
-As an alternative to running the notebook locally, it is possible to use [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pafoster/path_signatures_introduction/master)
+As an alternative to running the notebook locally, it is possible to use Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pafoster/path_signatures_introduction/master)
