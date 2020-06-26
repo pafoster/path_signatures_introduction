@@ -1,4 +1,4 @@
-# An Brief Introduction to Path Signatures
+# A Brief Introduction to Path Signatures
 A Jupyter notebook which provides a brief introduction to path signatures for machine learning practitioners.
 
 # Requirements
